@@ -2,6 +2,8 @@
 
 ## Краткое описание
 
+Исрользовали гововое приложение для подсчета бонусов для клиентов
+
 public class Main {
     public static void main(String[] args) {
         double regularBonus = 0.3;
@@ -18,7 +20,7 @@ public class Main {
 ## Результаты
 
 1. Тест был не успешный
-2. Ссылки на баг-репорты
+2. https://github.com/IraRogova/Precision/issues/1
 
 ## Общие рекомендации
 
