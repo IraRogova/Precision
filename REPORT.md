@@ -21,8 +21,8 @@ public class Main {
 ## Результаты
 
 1. Результат не округляется
-2. https://github.com/IraRogova/Precision/issues/1
+2. [issues1](https://github.com/IraRogova/Precision/issues/1)
 
 ## Общие рекомендации
 
-Необходимо чтобы итоговый результат бонусов, округляся;
+Необходимо чтобы итоговый результат бонусов округлялся;
