@@ -21,7 +21,7 @@ public class Main {
 ## Результаты
 
 1. Результат не округляется
-2. [issues1](https://github.com/IraRogova/Precision/issues/1)
+2. [Не округляется значение типа данных double](https://github.com/IraRogova/Precision/issues/1)
 
 ## Общие рекомендации
 
